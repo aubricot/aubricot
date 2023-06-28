@@ -8,4 +8,4 @@ An integrative biologist using computational approaches to maximize the utility 
 <p align='center'>
 <d
 
-[![aubricot's GitHub stats](https://github-readme-stats.vercel.app/api?username=aubricot&hide=contribs&show_icons=true&theme=aura_dark)](https://github.com/aubricot/github-readme-stats)
+[![aubricot's GitHub stats](https://github-readme-stats.vercel.app/api?username=aubricot&hide=contribs&show_icons=true&theme=aura_dark&hide_rank=true)](https://github.com/aubricot/github-readme-stats)
