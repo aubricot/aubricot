@@ -9,9 +9,15 @@
 </p>
 
 <p align='center'>
-  ![aubricot's GitHub stats](https://github-readme-stats.vercel.app/api?username=aubricot&hide=contribs&show_icons=true&theme=aura_dark&hide_rank=true)
-</p>
+  <div>
+    <a href="https://github.com/aubricot/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=aubricot&hide=contribs&show_icons=true&theme=aura_dark&hide_rank=true" alt="aubricot's GitHub stats" />
+    </a>
+  </div>
 
-<p align='center'>
-  ![Open source contribution stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/type=repos&username=aubricot&limit=6)
+  <div>
+    <a href="https://github.com/aubricot/readme-contribution-stats">
+      <img src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/type=repos&username=aubricot&limit=6" alt="Open source contribution stats" />
+    </a>
+  </div>
 </p>
