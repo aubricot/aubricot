@@ -13,8 +13,8 @@
     <td align="center">
       <a href="https://github.com/aubricot/github-readme-stats">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=aubricot&hide=contribs&show_icons=true&theme=aura_dark&hide_rank=true"
-          alt="aubricot's GitHub stats"
+          src="https://github-readme-stats-one-bice.vercel.app/api?username=aubricot"
+          alt="aubricot's Github stats"
         />
       </a>
     </td>
