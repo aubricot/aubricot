@@ -21,7 +21,7 @@
     <td align="center">
       <a href="https://github.com/amankumarconnect/readme-contribution-stats">
         <img
-          src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/username=aubricot&prs=true&issues=true&sort=contributions&limit=6&transparent=true"
+          src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=aubricot&prs=true&issues=true&sort=contributions&limit=6&transparent=true"
           alt="Open source contribution stats"
         />
       </a>
